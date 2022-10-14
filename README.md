@@ -60,13 +60,13 @@
 
 1. [CASPER](https://casper.network/)
 
-2. [KUJIRA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) MAINET
+2. [KUJIRA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) MAINNET
 
 3. [QUICKSILVER](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
 4. [GOLD FINCH](https://goldfinch.finance/)
 
-5. [STRIDE](https://stride.zone/) MAINET
+5. [STRIDE](https://stride.zone/) MAINNET
 
 6. [THIRD WEB](https://thirdweb.com/?utm_source=dc)
 
