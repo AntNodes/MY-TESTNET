@@ -1,4 +1,4 @@
-# MY TESTNET
+# MY TESTNETS
 
 ## Test nodes in which I participated
 
