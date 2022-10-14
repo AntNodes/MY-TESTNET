@@ -1,5 +1,4 @@
-| CENTER |
-# MY TESTNET
+:# MY TESTNET:
 
 ##Test nodes in which I participated.
 
