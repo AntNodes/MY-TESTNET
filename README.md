@@ -32,9 +32,14 @@
 
 14.[BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
-15.[]()
-16.[]()
-17.[]()
-18.[]()
-19.[]()
+15.[TRANSFORMERS](https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1HYGe9LwNAcQ1uBzWSUhnLwAg3tRq8QBKs&active=0&online=0&selfStake=5000&delegateds=13300&delegated=105000&name=SINNER)
+
+16.[MASA]()
+
+17.[MASSA]()
+
+18.[SUBQUERY]()
+
+19.[SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
+
 20.[]()
