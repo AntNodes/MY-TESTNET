@@ -40,6 +40,7 @@
 18. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
 19. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
+20. [CELESTIA](https://celestia.org/) wait Q1 2023
 
 
 
@@ -47,4 +48,29 @@
 
 
 1. [SCROLL.io](https://scroll.io/) Scroll Pre-Alpha Testnet
+
+2. [My SWAP](https://www.myswap.xyz/) Testnet Platform
+
+3. [PONTEM](https://pontem.network/) Testnet Platform
+
+4. [FIREFLY](https://firefly.exchange/) Testnet Platform
+
+
+## END
+
+1. [CASPER](https://casper.network/)
+
+2. [KUJIRA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) MAINET
+
+3. [QUICKSILVER](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+
+4. [GOLD FINCH](https://goldfinch.finance/)
+
+5. [STRIDE](https://stride.zone/) MAINET
+
+6. [THIRD WEB](https://thirdweb.com/?utm_source=dc)
+
+7. [NYM](https://nymtech.net/)
+
+8. [MOONBEAM](https://moonbeam.network/)
 
