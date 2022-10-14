@@ -1,6 +1,6 @@
 # MY TESTNETS
 
-## Test nodes in which I participate
+## Testing I took part in running nodes
 
 
 
@@ -48,7 +48,7 @@
 23. []()
 24. []()
 
-# Testing I took part in without running nodes
+## Testing I took part in without running nodes
 
 1. [SCROLL.io](https://scroll.io/) Scroll Pre-Alpha Testnet
 
