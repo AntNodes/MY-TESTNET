@@ -19,7 +19,7 @@
 
 8. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
 
-9. [HUMANODE Testnet 4 "Gaghiel"](https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343)
+9. [HUMANODE Testnet 4 "Gaghiel"](https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343) node name SINNER
 
 10. [IRONFISH](https://testnet.ironfish.network/users/17986) (dreamek my old login)
 
