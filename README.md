@@ -48,7 +48,7 @@
 23. []()
 24. []()
 
-#Testing I took part in without running nodes
+# Testing I took part in without running nodes
 
 1. [SCROLL.io](https://scroll.io/) Scroll Pre-Alpha Testnet
 
