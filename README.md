@@ -3,7 +3,6 @@
 ## Testing I took part in running nodes
 
 
-
 1. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3)
 
 2. [TERITORI](https://explorer.stavr.tech/teritori/staking/torivaloper12h3mykwltnv3tsvgwh7j334ra6ep3222ktju76)
@@ -24,9 +23,9 @@
 
 10. [IRONFISH](https://testnet.ironfish.network/users/17986) (dreamek my old login)
 
-11. [MINIMA]()
+11. [MINIMA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
-12. [QUAI]()
+12. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
 13. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
 
@@ -34,21 +33,17 @@
 
 15. [TRANSFORMERS](https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1HYGe9LwNAcQ1uBzWSUhnLwAg3tRq8QBKs&active=0&online=0&selfStake=5000&delegateds=13300&delegated=105000&name=SINNER)
 
-16. [MASA]()
+16. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
-17. [MASSA]()
+17. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
-18. [SUBQUERY]()
+18. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
 19. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
 
-20. []()
-21. []()
-22. []()
-23. []()
-24. []()
 
 ## Testing I took part in without running nodes
+
 
 1. [SCROLL.io](https://scroll.io/) Scroll Pre-Alpha Testnet
 
