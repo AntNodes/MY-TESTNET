@@ -1,6 +1,6 @@
 # MY TESTNETS
 
-## Test nodes in which I participated
+## Test nodes in which I participate
 
 
 
