@@ -22,7 +22,7 @@
 
 9.[HUMANODE Testnet 4 "Gaghiel"](https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343)
 
-10.[IRONFISH (dreamek my old login](https://testnet.ironfish.network/users/17986)
+10.[IRONFISH](https://testnet.ironfish.network/users/17986) (dreamek my old login)
 
 11.[MINIMA]()
 
