@@ -43,7 +43,7 @@
 
 20. [CELESTIA](https://celestia.org/) wait Q1 2023
 
-21. [ALEO]() wait Q1 2023
+21. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1 
 
 
 ## ⚪️Testing I took part in without running nodes
