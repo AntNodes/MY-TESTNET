@@ -52,7 +52,7 @@
 24. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
 
-## 🔵Testing I took part in without running nodes
+## 🔵 Testing I took part in without running nodes
 
 
 1. [SCROLL.io](https://scroll.io/) Scroll Pre-Alpha Testnet
