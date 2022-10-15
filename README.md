@@ -49,6 +49,8 @@
 
 23. [DEFUND](https://www.defund.app/) Wait Phase 2
 
+24. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+
 
 ## 🔵Testing I took part in without running nodes
 
