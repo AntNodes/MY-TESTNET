@@ -78,7 +78,7 @@
 
 6. [THIRD WEB](https://thirdweb.com/?utm_source=dc)
 
-7. [NYM](https://nymtech.net/)
+7. [NYM](https://nymtech.net/) MAINNET
 
 8. [MOONBEAM](https://moonbeam.network/)
 
