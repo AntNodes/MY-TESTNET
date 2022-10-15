@@ -25,7 +25,7 @@
 
 11. [MINIMA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
-12. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+12. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait Iron Age Testnet
 
 13. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
 
@@ -41,7 +41,7 @@
 
 19. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
 
-20. [CELESTIA](https://celestia.org/) wait Q1 2023
+20. [CELESTIA](https://celestia.org/) Wait Q1 2023
 
 21. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
 
