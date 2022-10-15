@@ -33,7 +33,7 @@
 
 15. [TRANSFORMERS](https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1HYGe9LwNAcQ1uBzWSUhnLwAg3tRq8QBKs&active=0&online=0&selfStake=5000&delegateds=13300&delegated=105000&name=SINNER)
 
-16. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+16. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait 3 Phase
 
 17. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
