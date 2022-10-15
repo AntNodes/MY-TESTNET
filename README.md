@@ -43,7 +43,11 @@
 
 20. [CELESTIA](https://celestia.org/) wait Q1 2023
 
-21. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1 
+21. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
+
+22. [OASYS](https://docs.oasys.games/docs/category/validator)
+
+23. [DEFUND](https://www.defund.app/) Wait Phase 2
 
 
 ## ⚪️Testing I took part in without running nodes
