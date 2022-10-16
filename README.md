@@ -51,6 +51,9 @@
 
 24. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
+25. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+
+
 
 ## 🔵 Testing I took part in without running nodes
 
@@ -81,4 +84,6 @@
 7. [NYM](https://nymtech.net/) MAINNET
 
 8. [MOONBEAM](https://moonbeam.network/)
+
+9. [REBUS](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) MAINNET
 
