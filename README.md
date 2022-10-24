@@ -68,7 +68,7 @@
 
 4. [FIREFLY](https://firefly.exchange/) Testnet Platform
 
-5.[MAVERICK PROTOCOL](https://www.mav.xyz/) Testnet Platform
+5. [MAVERICK PROTOCOL](https://www.mav.xyz/) Testnet Platform
 
 
 ## 🔴 END
