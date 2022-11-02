@@ -55,6 +55,8 @@
 
 26. [MANDE](https://explorer.jambulmerah.dev/mande-testnet/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
 
+26. [NIBIRU](https://exp.utsa.tech/nibiru-test/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
+
 
 
 ## 🔵 Testing I took part in without running nodes
