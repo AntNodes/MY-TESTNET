@@ -47,7 +47,7 @@
 
 22. [OASYS](https://docs.oasys.games/docs/category/validator)
 
-23. [DEFUND](https://www.defund.app/) Wait Phase 2
+23. [DEFUND]https://exp.utsa.tech/defund-test/staking/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
 
 24. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
@@ -92,4 +92,10 @@
 8. [MOONBEAM](https://moonbeam.network/)
 
 9. [REBUS](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) MAINNET
+
+10. [Zeitgeist](https://zeitgeist.pm/)
+
+11. [BitCountry](https://bit.country/) 
+
+12. [ANOTHER-1](https://another-1.io/)
 
