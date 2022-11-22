@@ -57,6 +57,8 @@
 
 26. [NIBIRU](https://exp.utsa.tech/nibiru-test/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
 
+27. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx)
+
 
 
 ## 🔵 Testing I took part in without running nodes
