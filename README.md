@@ -21,7 +21,7 @@
 
 9. [HUMANODE Testnet 4 "Gaghiel"](https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343) node name SINNER
 
-10. [IRONFISH](https://testnet.ironfish.network/users/17986) (dreamek my old login)
+10. [IRONFISH](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
 11. [MINIMA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
@@ -72,7 +72,9 @@
 
 4. [FIREFLY](https://firefly.exchange/) Testnet Platform
 
-5. [MAVERICK PROTOCOL](https://www.mav.xyz/) Testnet Platform
+5. [MAVERICK PROTOCOL](https://www.mav.xyz/) Testnet Platform MAVA I MAVA II MAVA III
+
+6. [ZkSYNC](https://zksync.io/)
 
 
 ## 🔴 END
@@ -100,4 +102,6 @@
 11. [BitCountry](https://bit.country/) 
 
 12. [ANOTHER-1](https://another-1.io/)
+
+13. [AXELAR](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
