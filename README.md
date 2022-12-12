@@ -47,7 +47,7 @@
 
 22. [OASYS](https://docs.oasys.games/docs/category/validator)
 
-23. [DEFUND](https://exp.utsa.tech/defund-test/staking/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
+23. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
 
 24. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
