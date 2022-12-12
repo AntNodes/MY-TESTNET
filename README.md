@@ -19,7 +19,7 @@
 
 8. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
 
-9. [HUMANODE Testnet 4 "Gaghiel"](https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343) node name SINNER
+9. [PENUMBRA](http://penumbra.zpoken.io/validators/penumbravalcons15868j3lz67nh8cssm0e29n3mca7gsm5pu7tjac)
 
 10. [IRONFISH](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
@@ -60,6 +60,7 @@
 27. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx)
 
 28. [HUMANS](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1y3d4pdvay8ask3dte7y752tj9kx2w2tkx6d0ky)
+
 
 
 
