@@ -63,6 +63,7 @@
 
 29. [EXORDE](https://explorer.exorde.network/leaderboard)
 
+30. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy)
 
 
 
