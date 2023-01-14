@@ -92,7 +92,7 @@
 
 2. [KUJIRA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) MAINNET
 
-3. [QUICKSILVER](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+3. [QUICKSILVER](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) MAINNET
 
 4. [GOLD FINCH](https://goldfinch.finance/)
 
