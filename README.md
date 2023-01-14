@@ -85,6 +85,7 @@
 
 6. [ZkSYNC](https://zksync.io/)
 
+7. [SOFT DAO](https://app.stagetokensoft.com)
 
 ## 🔴 END
 
