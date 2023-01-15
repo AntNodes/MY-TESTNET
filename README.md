@@ -65,7 +65,7 @@
 
 30. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy)
 
-31. [MARS](https://explorer.stavr.tech/mars-testnet/staking/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
+31. [MARS](https://mars.explorers.guru/validator/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
 
 
 
