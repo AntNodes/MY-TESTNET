@@ -11,13 +11,13 @@
 
 4. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
 
-5. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
+5. [MARS](https://mars.explorers.guru/validator/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
 
 6. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3)
 
-7. [NOIS](https://testnet.ping.pub/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
+7. [MANDE](https://explorer.jambulmerah.dev/mande-testnet/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
 
-8. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
+8. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy)
 
 9. [PENUMBRA](http://penumbra.zpoken.io/validators/penumbravalcons15868j3lz67nh8cssm0e29n3mca7gsm5pu7tjac)
 
@@ -53,7 +53,7 @@
 
 25. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
-26. [MANDE](https://explorer.jambulmerah.dev/mande-testnet/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
+26. [NOIS](https://testnet.ping.pub/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
 
 26. [NIBIRU](https://exp.utsa.tech/nibiru-test/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
 
@@ -63,9 +63,9 @@
 
 29. [EXORDE](https://explorer.exorde.network/leaderboard)
 
-30. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy)
+30. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
 
-31. [MARS](https://mars.explorers.guru/validator/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
+31. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
 
 
 
