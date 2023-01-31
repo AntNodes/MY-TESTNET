@@ -67,6 +67,8 @@
 
 31. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
 
+32. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
+
 
 
 
