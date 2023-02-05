@@ -15,7 +15,7 @@
 
 6. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3)
 
-7. [MANDE](https://explorer.jambulmerah.dev/mande-testnet/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
+7. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
 
 8. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy)
 
