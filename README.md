@@ -93,6 +93,8 @@
 
 7. [SOFT DAO](https://app.stagetokensoft.com)
 
+8. [INVARCH](https://www.tinker.network/)
+
 ## 🔴 END
 
 1. [CASPER](https://casper.network/)
