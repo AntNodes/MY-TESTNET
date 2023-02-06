@@ -69,7 +69,7 @@
 
 32. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
 
-33. [SHARDEUM](https://shardeum.org/ru/)
+33. [SHARDEUM](https://shardeum.org/ru/) OCIF Staking: Public Testing
 
 
 
