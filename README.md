@@ -92,7 +92,7 @@
 
 7. [SOFT DAO](https://app.stagetokensoft.com)
 
-8. 8. [FUEL](https://fuels-wallet.vercel.app/docs/install) FUEL Wallet beta-1 и beta-2
+8. [FUEL](https://fuels-wallet.vercel.app/docs/install) FUEL Wallet beta-1 и beta-2
 
 9. [INVARCH](https://www.tinker.network/) OCIF Staking: Public Testing
 
