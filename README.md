@@ -17,7 +17,7 @@
 
 7. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
 
-8. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy)
+8. [LAVA](https://bd.lavanet.xyz/validators/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy)
 
 9. [PENUMBRA](http://penumbra.zpoken.io/validators/penumbravalcons15868j3lz67nh8cssm0e29n3mca7gsm5pu7tjac)
 
