@@ -45,6 +45,8 @@
 
 21. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
 
+22. [CHAINFLIP](https://blocks-perseverance.chainflip.io/validator/cFMVemarchUtgJkWUuQ7UnMUV3SH4gk7mPbgUi5drZuKzBXQw)
+
 22. [OASYS](https://docs.oasys.games/docs/category/validator)
 
 23. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
