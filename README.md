@@ -71,7 +71,7 @@
 
 34. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
 
-35. [OBOL] captain ELBRUS(cluster)
+35. [OBOL] Captain 👨‍✈️ cluster ELBRUS
 
 33. [SHARDEUM](https://shardeum.org/ru/)
 
