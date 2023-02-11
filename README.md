@@ -47,29 +47,31 @@
 
 22. [CHAINFLIP](https://blocks-perseverance.chainflip.io/validator/cFMVemarchUtgJkWUuQ7UnMUV3SH4gk7mPbgUi5drZuKzBXQw)
 
-22. [OASYS](https://docs.oasys.games/docs/category/validator)
+23. [OASYS](https://docs.oasys.games/docs/category/validator)
 
 23. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
 
-24. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+25. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
-25. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+26. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
-26. [NOIS](https://testnet.ping.pub/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
+27. [NOIS](https://testnet.ping.pub/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
 
-26. [NIBIRU](https://exp.utsa.tech/nibiru-test/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
+28. [NIBIRU](https://exp.utsa.tech/nibiru-test/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
 
-27. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx)
+29. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx)
 
-28. [HUMANS](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1y3d4pdvay8ask3dte7y752tj9kx2w2tkx6d0ky)
+30. [HUMANS](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1y3d4pdvay8ask3dte7y752tj9kx2w2tkx6d0ky)
 
-29. [EXORDE](https://explorer.exorde.network/leaderboard)
+31. [EXORDE](https://explorer.exorde.network/leaderboard)
 
-30. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
+32. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
 
-31. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
+33. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
 
-32. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
+34. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
+
+35. [OBOL] captain ELBRUS(cluster)
 
 33. [SHARDEUM](https://shardeum.org/ru/)
 
