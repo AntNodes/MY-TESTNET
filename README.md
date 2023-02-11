@@ -61,7 +61,7 @@
 
 29. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx)
 
-30. [HUMANS](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1y3d4pdvay8ask3dte7y752tj9kx2w2tkx6d0ky)
+30. [HUMANS](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1y3d4pdvay8ask3dte7y752tj9kx2w2tkx6d0ky)
 
 31. [EXORDE](https://explorer.exorde.network/leaderboard)
 
