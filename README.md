@@ -51,7 +51,7 @@
 
 23. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
 
-25. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+25. [SHARDEUM](https://shardeum.org/ru/)
 
 26. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
@@ -73,7 +73,7 @@
 
 35. [OBOL]() Captain 👨‍✈️ cluster ELBRUS
 
-33. [SHARDEUM](https://shardeum.org/ru/)
+
 
 
 
@@ -127,4 +127,6 @@
 12. [ANOTHER-1](https://another-1.io/)
 
 13. [AXELAR](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+
+14. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
