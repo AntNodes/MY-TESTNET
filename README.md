@@ -7,7 +7,7 @@
 
 2. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3)
 
-3. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3)
+3. [CELESTIA](https://celestia.org/) Wait Q1 2023
 
 4. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
 
@@ -41,7 +41,7 @@
 
 19. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
 
-20. [CELESTIA](https://celestia.org/) Wait Q1 2023
+20. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3)
 
 21. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
 
