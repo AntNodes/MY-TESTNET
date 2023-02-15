@@ -3,19 +3,19 @@
 ##  🟢 Testing I took part in running nodes
 
 
-1. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3)
+1. [CROWD CONTROL](https://explorer.stavr.tech/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg)
 
-2. [TERITORI](https://explorer.stavr.tech/teritori/staking/torivaloper12h3mykwltnv3tsvgwh7j334ra6ep3222ktju76)
+2. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3)
 
-3. [CROWD CONTROL](https://explorer.stavr.tech/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg)
+3. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3)
 
 4. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
 
-5. [MARS](https://mars.explorers.guru/validator/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
+5. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
 
-6. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3)
+6. [TERITORI](https://explorer.stavr.tech/teritori/staking/torivaloper12h3mykwltnv3tsvgwh7j334ra6ep3222ktju76)
 
-7. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
+7. [MARS](https://mars.explorers.guru/validator/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
 
 8. [LAVA](https://bd.lavanet.xyz/validators/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy)
 
