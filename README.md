@@ -104,7 +104,7 @@
 
 ## 🔴 END
 
-1. [APTOS]
+1. [APTOS]()
 
 2. [KUJIRA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) MAINNET
 
