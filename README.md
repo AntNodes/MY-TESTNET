@@ -100,6 +100,8 @@
 
 9. [INVARCH](https://www.tinker.network/) OCIF Staking: Public Testing
 
+10. [GORACLE](https://testnet-app.goracle.io/incentivized-testnet)
+
 ## 🔴 END
 
 1. [CASPER](https://casper.network/)
