@@ -75,6 +75,8 @@
 
 36. [MUON](https://alice.muon.net/join/)
 
+37. [FLEEK](https://fleek.network)
+
 
 
 
