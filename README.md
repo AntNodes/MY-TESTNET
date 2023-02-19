@@ -104,6 +104,8 @@
 
 10. [GORACLE](https://testnet-app.goracle.io/incentivized-testnet)
 
+11. [KRESKO](https://app.kresko.link/)
+
 ## 🔴 END
 
 1. [APTOS](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
