@@ -57,7 +57,7 @@
 
 27. [NOIS](https://testnet.ping.pub/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
 
-28. [NIBIRU](https://exp.utsa.tech/nibiru-test/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
+28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
 
 29. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx)
 
