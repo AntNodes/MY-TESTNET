@@ -7,7 +7,7 @@
 
 2. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3)
 
-3. [CELESTIA](https://celestia.org/) Wait Q1 2023
+3. [CELESTIA](https://celestia.org/)
 
 4. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
 
