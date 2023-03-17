@@ -67,7 +67,8 @@
 
 32. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
 
-
+#
+#
 
 
 ## 🔵 Testing I took part in without running nodes
@@ -94,6 +95,9 @@
 10. [GORACLE](https://testnet-app.goracle.io/incentivized-testnet)
 
 11. [KRESKO](https://app.kresko.link/)
+
+#
+#
 
 
 ## 🔴 END
