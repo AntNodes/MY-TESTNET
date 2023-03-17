@@ -13,7 +13,7 @@
 
 5. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
 
-6. [TERITORI](https://explorer.stavr.tech/teritori/staking/torivaloper12h3mykwltnv3tsvgwh7j334ra6ep3222ktju76)
+6. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
 
 7. [MARS](https://mars.explorers.guru/validator/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
 
@@ -21,9 +21,9 @@
 
 9. [PENUMBRA](http://penumbra.zpoken.io/validators/penumbravalcons15868j3lz67nh8cssm0e29n3mca7gsm5pu7tjac)
 
-10. [IRONFISH](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+10. [FLEEK](https://fleek.network)
 
-11. [MINIMA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+11. [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
 
 12. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait Iron Age Testnet
 
@@ -47,7 +47,7 @@
 
 22. [CHAINFLIP](https://blocks-perseverance.chainflip.io/validator/cFMVemarchUtgJkWUuQ7UnMUV3SH4gk7mPbgUi5drZuKzBXQw)
 
-23. [OASYS](https://docs.oasys.games/docs/category/validator)
+23. [MUON](https://alice.muon.net/join/)
 
 23. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
 
@@ -65,20 +65,7 @@
 
 31. [EXORDE](https://explorer.exorde.network/leaderboard)
 
-32. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
-
-33. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
-
-34. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
-
-35. [OBOL]() Captain 👨‍✈️ cluster ELBRUS
-
-36. [MUON](https://alice.muon.net/join/)
-
-37. [FLEEK](https://fleek.network)
-
-
-
+32. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
 
 
 
@@ -107,6 +94,7 @@
 10. [GORACLE](https://testnet-app.goracle.io/incentivized-testnet)
 
 11. [KRESKO](https://app.kresko.link/)
+
 
 ## 🔴 END
 
@@ -139,4 +127,15 @@
 14. [PALOMA](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
 15. [CASPER](https://casper.network/)
+
+16. [TERITORI](https://explorer.stavr.tech/teritori/staking/torivaloper12h3mykwltnv3tsvgwh7j334ra6ep3222ktju76) MAINNET 
+
+17. [IRONFISH](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+
+18. [MINIMA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+
+19. [OASYS](https://docs.oasys.games/docs/category/validator)
+
+20. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
+
 
