@@ -55,7 +55,7 @@
 
 26. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
-27. [NOIS](https://testnet.ping.pub/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
+27. [NOIS](https://nois.explorers.guru/validator/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
 
 28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
 
