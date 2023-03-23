@@ -9,7 +9,7 @@
 
 3. [CELESTIA](https://celestia.org/)
 
-4. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
+4. [NOIS](https://nois.explorers.guru/validator/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
 
 5. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
 
@@ -55,7 +55,7 @@
 
 26. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
-27. [NOIS](https://nois.explorers.guru/validator/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
+27. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
 
 28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
 
