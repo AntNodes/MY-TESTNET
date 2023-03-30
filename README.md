@@ -9,7 +9,7 @@
 
 3. [CELESTIA](https://celestia.org/)
 
-4. [NOIS](https://nois.explorers.guru/validator/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
+4. [NOIS](https://https://explorer.mcbnode.online/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj)
 
 5. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
 
