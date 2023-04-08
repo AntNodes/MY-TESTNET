@@ -7,7 +7,7 @@
 
 2. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3)
 
-3. [CELESTIA](https://celestia.org/)
+3. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node
 
 4. [NOIS](https://explorer.stavr.tech/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj) NOIS-TESTNET-005
 
@@ -55,7 +55,7 @@
 
 26. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
-27. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
+27. [GORACLE](https://testnet-app.goracle.io/nodes/optin)
 
 28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
 
@@ -66,6 +66,8 @@
 31. [EXORDE](https://explorer.exorde.network/leaderboard)
 
 32. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
+
+33. [STADER](https://prater.beaconcha.in/validator/ae3f805607ded699e30ee58fde57a061a1fda02784a5dd6205c8e7e5d130e6b4ae5a017667754e5fb206cc271558d73d#deposits)
 
 #
 #
@@ -141,5 +143,7 @@
 19. [OASYS](https://docs.oasys.games/docs/category/validator)
 
 20. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
+
+21. 27. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
 
 
