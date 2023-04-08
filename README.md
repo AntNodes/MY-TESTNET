@@ -3,21 +3,22 @@
 ##  🟢 Testing I took part in running nodes
 
 
-1. [CROWD CONTROL](https://explorer.stavr.tech/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg)
+1. [CROWD CONTROL](https://explorer.stavr.tech/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) TESTNET3
 
-2. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3)
+2. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3) 
+ATHENA-4
 
 3. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node
 
 4. [NOIS](https://explorer.stavr.tech/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj) NOIS-TESTNET-005
 
-5. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew)
+5. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew) MANDE-TESTNET-2
 
 6. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
 
-7. [MARS](https://mars.explorers.guru/validator/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
+7. 
 
-8. [LAVA](https://bd.lavanet.xyz/validators/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy)
+8. [LAVA](https://bd.lavanet.xyz/validators/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy) lava-testnet-1
 
 9. [PENUMBRA](http://penumbra.zpoken.io/validators/penumbravalcons15868j3lz67nh8cssm0e29n3mca7gsm5pu7tjac)
 
@@ -144,6 +145,8 @@
 
 20. [OLLO](https://explorer.stavr.tech/ollo/staking/ollovaloper1wttdn7xxvyfugw7pnwz55q2fkf7gr4xvt9fdxr)
 
-21. 27. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
+21. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
+
+22. [MARS](https://mars.explorers.guru/validator/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
 
 
