@@ -36,31 +36,31 @@ ATHENA-4
 
 16. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait 3 Phase
 
-17. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+17. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) TEST 21
 
 18. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
 19. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
 
-20. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3)
+20. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) wait next phase
 
 21. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
 
 22. [CHAINFLIP](https://blocks-perseverance.chainflip.io/validator/cFMVemarchUtgJkWUuQ7UnMUV3SH4gk7mPbgUi5drZuKzBXQw)
 
-23. [MUON](https://alice.muon.net/join/)
+23. [MUON](https://alice.muon.net/join/) node
 
 23. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
 
-25. [SHARDEUM](https://shardeum.org/ru/)
+25. [SHARDEUM](https://shardeum.org/ru/) node
 
 26. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
 27. [GORACLE](https://testnet-app.goracle.io/nodes/optin)
 
-28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t)
+28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-1
 
-29. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx)
+29. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
 
 30. [HUMANS](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1y3d4pdvay8ask3dte7y752tj9kx2w2tkx6d0ky)
 
