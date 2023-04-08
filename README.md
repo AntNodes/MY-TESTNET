@@ -16,7 +16,7 @@ ATHENA-4
 
 6. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
 
-7. 
+7. [STADER](https://prater.beaconcha.in/validator/ae3f805607ded699e30ee58fde57a061a1fda02784a5dd6205c8e7e5d130e6b4ae5a017667754e5fb206cc271558d73d#deposits)
 
 8. [LAVA](https://bd.lavanet.xyz/validators/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy) lava-testnet-1
 
@@ -68,7 +68,6 @@ ATHENA-4
 
 32. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
 
-33. [STADER](https://prater.beaconcha.in/validator/ae3f805607ded699e30ee58fde57a061a1fda02784a5dd6205c8e7e5d130e6b4ae5a017667754e5fb206cc271558d73d#deposits)
 
 #
 #
@@ -95,9 +94,7 @@ ATHENA-4
 
 9. [INVARCH](https://www.tinker.network/) OCIF Staking: Public Testing
 
-10. [GORACLE](https://testnet-app.goracle.io/incentivized-testnet)
-
-11. [KRESKO](https://app.kresko.link/)
+10. [KRESKO](https://app.kresko.link/)
 
 #
 #
