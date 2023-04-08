@@ -56,7 +56,7 @@ ATHENA-4
 
 26. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
 
-27. [GORACLE](https://testnet-app.goracle.io/nodes/optin)
+27. [GORACLE](https://testnet-app.goracle.io/nodes/optin) node
 
 28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-1
 
@@ -66,7 +66,7 @@ ATHENA-4
 
 31. [EXORDE](https://explorer.exorde.network/leaderboard)
 
-32. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
+32. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85) wait
 
 
 #
