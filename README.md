@@ -68,7 +68,7 @@ ATHENA-4
 
 32. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85) wait
 
-33. [CASCADIA](https://validator.cascadia.foundation/validators/cascadiavaloper1xr2cz4682x9eylqde0yl0alefmzdr4jw7jdv3j)
+33. [CASCADIA](https://validator.cascadia.foundation/validators/cascadiavaloper1xr2cz4682x9eylqde0yl0alefmzdr4jw7jdv3j) cascadia_6102-1
 #
 #
 
