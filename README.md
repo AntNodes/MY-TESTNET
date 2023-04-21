@@ -8,7 +8,7 @@
 2. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3) 
 ATHENA-4
 
-3. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node
+3. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node  [Explorer](https://testnet.mintscan.io/celestia-testnet)
 
 4. [NOIS](https://explorer.stavr.tech/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj) NOIS-TESTNET-005
 
