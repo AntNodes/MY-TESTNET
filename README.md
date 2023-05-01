@@ -18,7 +18,7 @@ ATHENA-4
 
 7. [STADER](https://prater.beaconcha.in/validator/ae3f805607ded699e30ee58fde57a061a1fda02784a5dd6205c8e7e5d130e6b4ae5a017667754e5fb206cc271558d73d#deposits)
 
-8. [LAVA](https://bd.lavanet.xyz/validators/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy) lava-testnet-1
+8. [LAVA](https://lava.explorers.guru/account/lava@1672pe6c5egffx4glalyg8yzqeuv7kwj3lfezln) lava-testnet-1
 
 9. [PENUMBRA](http://penumbra.zpoken.io/validators/penumbravalcons15868j3lz67nh8cssm0e29n3mca7gsm5pu7tjac)
 
