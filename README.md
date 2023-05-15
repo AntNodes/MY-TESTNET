@@ -5,8 +5,7 @@
 
 1. [CROWD CONTROL](https://explorer.stavr.tech/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) TESTNET3
 
-2. [TERP](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3) 
-ATHENA-4
+2. [TERP](https://testnet.itrocket.net/terp/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3) ATHENA-4
 
 3. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node  [Explorer](https://testnet.mintscan.io/celestia-testnet)
 
