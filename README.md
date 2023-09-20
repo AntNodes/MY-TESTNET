@@ -21,33 +21,35 @@
 
 9. [PENUMBRA](http://penumbra.zpoken.io/validators/penumbravalcons15868j3lz67nh8cssm0e29n3mca7gsm5pu7tjac)
 
-10. [FLEEK](https://fleek.network) Alpha Test
+10. [CASCADIA](https://exp.systemd.run/cascadia/staking/cascadiavaloper1xr2cz4682x9eylqde0yl0alefmzdr4jw7jdv3j) cascadia_6102-1
 
-11. [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
+11. [MUON](https://alice.muon.net/join/) node
+    
+13. [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
 
-12. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait Iron Age Testnet
+14. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait Iron Age Testnet
 
-13. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
+15. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
 
-14. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
+16. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
-15. [TRANSFORMERS](https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1HYGe9LwNAcQ1uBzWSUhnLwAg3tRq8QBKs&active=0&online=0&selfStake=5000&delegateds=13300&delegated=105000&name=SINNER)
+17. [TRANSFORMERS](https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1HYGe9LwNAcQ1uBzWSUhnLwAg3tRq8QBKs&active=0&online=0&selfStake=5000&delegateds=13300&delegated=105000&name=SINNER)
 
-16. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait 3 Phase
+18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait 3 Phase
 
-17. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) TEST 21
+19. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) TEST 21
 
-18. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+20. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
-19. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
+21. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
 
-20. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) wait next phase
+22. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) wait next phase
 
-21. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
+23. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
 
-22. [CHAINFLIP](https://blocks-perseverance.chainflip.io/validator/cFMVemarchUtgJkWUuQ7UnMUV3SH4gk7mPbgUi5drZuKzBXQw)
+24. [CHAINFLIP](https://blocks-perseverance.chainflip.io/validator/cFMVemarchUtgJkWUuQ7UnMUV3SH4gk7mPbgUi5drZuKzBXQw)
 
-23. [MUON](https://alice.muon.net/join/) node
+25. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85) wait
 
 23. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
 
@@ -65,9 +67,8 @@
 
 31. [EXORDE](https://explorer.exorde.network/leaderboard)
 
-32. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85) wait
 
-33. [CASCADIA](https://exp.systemd.run/cascadia/staking/cascadiavaloper1xr2cz4682x9eylqde0yl0alefmzdr4jw7jdv3j) cascadia_6102-1
+
 #
 #
 
