@@ -7,39 +7,33 @@
 
 2. [CROWD CONTROL](https://explorer.stavr.tech/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) TESTNET3
 
-3. [CROWD CONTROL](https://explorer.stavr.tech/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) TESTNET3
+3. [ELIXIR](https://dashboard.elixir.finance/)
 
 4. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node  [Explorer](https://testnet.mintscan.io/celestia-testnet)
 
 5. [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
 
-6. [MUON](https://alice.muon.net/join/) node
+6. [MUON](https://alice.muon.net/join/) node ALICE V2 Operator
 
-7. [TAIKO](https://l2explorer.a1.taiko.xyz/address/0xf1a321A057688169B3C92f392334133f1344638f/internal-transactions#address-tabs)
+7. [TAIKO](https://taiko.xyz/docs) alpha-5 testnet
 
-8. [STADER](https://prater.beaconcha.in/validator/ae3f805607ded699e30ee58fde57a061a1fda02784a5dd6205c8e7e5d130e6b4ae5a017667754e5fb206cc271558d73d#deposits)
-
-9. [LAVA](https://lava.explorers.guru/account/lava@1672pe6c5egffx4glalyg8yzqeuv7kwj3lfezln) lava-testnet-1
+9. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy) lava-testnet-2
 
 10. [CASCADIA](https://exp.systemd.run/cascadia/staking/cascadiavaloper1xr2cz4682x9eylqde0yl0alefmzdr4jw7jdv3j) cascadia_6102-1
 
 11. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
-12. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) TEST 26
-    
-13. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew) MANDE-TESTNET-2
-
 14. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Iron Age Testnet
 
 15. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
 
-16. [SHARDEUM](https://shardeum.org/ru/) node
+16. [SHARDEUM](https://shardeum.org/ru/) node Operator
 
-17. [TRANSFORMERS](https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1HYGe9LwNAcQ1uBzWSUhnLwAg3tRq8QBKs&active=0&online=0&selfStake=5000&delegateds=13300&delegated=105000&name=SINNER)
+17. [TRANSFORMERS](https://explorer.tfsc.io/) node Operator
 
 18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait 3 Phase
 
-19. [GORACLE](https://testnet-app.goracle.io/nodes/optin) node
+19. [DYMENSION](https://docs.dymension.xyz/build/roller) RollApps
 
 20. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
@@ -49,27 +43,11 @@
 
 23. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
 
-24. [CHAINFLIP](https://blocks-perseverance.chainflip.io/validator/cFMVemarchUtgJkWUuQ7UnMUV3SH4gk7mPbgUi5drZuKzBXQw)
-
-25. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85) wait
-
 26. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
  
-27. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
-
 28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-1
 
 29. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
-
-30. [HUMANS](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1y3d4pdvay8ask3dte7y752tj9kx2w2tkx6d0ky)
-
-31. [EXORDE](https://explorer.exorde.network/leaderboard)
-
-32. [TERP](https://testnet.itrocket.net/terp/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3) ATHENA-4
-
-33. [NOIS](https://explorer.stavr.tech/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj) NOIS-TESTNET-005
-
-34. [PENUMBRA](http://penumbra.zpoken.io/validators/penumbravalcons15868j3lz67nh8cssm0e29n3mca7gsm5pu7tjac)
 
 #
 #
@@ -78,7 +56,7 @@
 ## 🔵 Testing I took part in without running nodes
 
 
-1. [SCROLL.io](https://scroll.io/) Scroll Pre-Alpha Testnet
+1. [SCROLL.io](https://scroll.io/) Scroll Pre-Alpha Testnet Sepolia Testnet
 
 2. [My SWAP](https://www.myswap.xyz/) Testnet Platform
 
@@ -147,5 +125,29 @@
 21. [CLAN NETWORK](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1mjml2l6e5t0hj6eyz4hyp8mlvgxpc733ak2cjq)
 
 22. [MARS](https://mars.explorers.guru/validator/marsvaloper1eptyqsc5ps264tv5mfgsmwtgvvgu82uknetttx)
+
+23. [EXORDE](https://explorer.exorde.network/leaderboard)
+
+24. [SEI](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+
+25. [NOIS](https://explorer.stavr.tech/nois/staking/noisvaloper1l4gudwr60jk3awse85awn9wf762w9afcjtp2zj) NOIS-TESTNET-005
+
+26. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew) MANDE-TESTNET-2
+
+27. [STADER](https://prater.beaconcha.in/validator/ae3f805607ded699e30ee58fde57a061a1fda02784a5dd6205c8e7e5d130e6b4ae5a017667754e5fb206cc271558d73d#deposits)
+
+28. [CHAINFLIP](https://blocks-perseverance.chainflip.io/validator/cFMVemarchUtgJkWUuQ7UnMUV3SH4gk7mPbgUi5drZuKzBXQw)
+
+29. [EMPOWER](https://empower.explorers.guru/validator/empowervaloper1dyvp8vsrhrepnp4xlpspsswhx5rmam6vnens85)
+
+30. [HUMANS](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1y3d4pdvay8ask3dte7y752tj9kx2w2tkx6d0ky)
+
+31. [PENUMBRA](http://penumbra.zpoken.io/validators/penumbravalcons15868j3lz67nh8cssm0e29n3mca7gsm5pu7tjac)
+
+32. [GORACLE](https://testnet-app.goracle.io/nodes/optin) node
+
+33. [TERP](https://testnet.itrocket.net/terp/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3) ATHENA-4
+
+
 
 
