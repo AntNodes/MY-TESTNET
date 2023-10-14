@@ -35,7 +35,7 @@
 
 19. [DYMENSION](https://docs.dymension.xyz/build/roller) RollApps
 
-20. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+20. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
 
 21. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
 
