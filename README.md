@@ -13,7 +13,7 @@
 
 5. [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
 
-6. [MUON](https://alice.muon.net/join/) node ALICE V2 Operator
+6. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
 
 7. [TAIKO](https://taiko.xyz/docs) alpha-5 testnet
 
@@ -147,6 +147,8 @@
 32. [GORACLE](https://testnet-app.goracle.io/nodes/optin) node
 
 33. [TERP](https://testnet.itrocket.net/terp/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3) ATHENA-4
+
+34. [MUON](https://alice.muon.net/join/) node ALICE V2 Operator (MAINET)
 
 
 
