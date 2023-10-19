@@ -5,7 +5,7 @@
 
 1. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) TEST 26
 
-2. [CROWD CONTROL](https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-4
+2. [CROWD CONTROL](https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-5
 
 3. [ELIXIR](https://dashboard.elixir.finance/)
 
