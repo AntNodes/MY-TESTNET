@@ -7,7 +7,7 @@
 
 2. [CROWD CONTROL](https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-5
 
-3. [ELIXIR](https://dashboard.elixir.finance/)
+3. [ELIXIR](https://dashboard.elixir.finance/) Elixir v2.0 Validator
 
 4. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node  [Explorer](https://testnet.mintscan.io/celestia-testnet)
 
@@ -25,7 +25,7 @@
 
 14. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Iron Age Testnet
 
-15. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
+15. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {1}
 
 16. [SHARDEUM](https://shardeum.org/ru/) node Operator
 
@@ -48,6 +48,8 @@
 28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-1
 
 29. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
+
+30. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
 
 #
 #
