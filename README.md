@@ -45,7 +45,7 @@
 
 26. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
  
-28. [NIBIRU](https://nibiru.explorers.guru/validator/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-1
+28. [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
 
 29. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
 
