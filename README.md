@@ -43,13 +43,11 @@
 
 23. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
 
-26. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
- 
-28. [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
+24. [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
 
-29. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
+25. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
 
-30. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
+26. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
 
 #
 #
@@ -151,6 +149,8 @@
 33. [TERP](https://testnet.itrocket.net/terp/staking/terpvaloper1r3hwq6l7pq0lhgsu4893c6asnsdtvzgvagxaw3) ATHENA-4
 
 34. [MUON](https://alice.muon.net/join/) node ALICE V2 Operator (MAINET)
+
+35. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
 
 
 
