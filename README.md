@@ -9,7 +9,7 @@
 
 3. [ELIXIR](https://dashboard.elixir.finance/) Elixir v2.0 Validator
 
-4. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node  [Explorer](https://testnet.mintscan.io/celestia-testnet)
+4. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Iron Age Testnet
 
 5. [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
 
@@ -23,9 +23,9 @@
 
 11. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
-14. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Iron Age Testnet
+14. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
 
-15. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {1}
+15. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {1} end Wait Phase 2
 
 16. [SHARDEUM](https://shardeum.org/ru/) node Operator
 
@@ -37,7 +37,7 @@
 
 20. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
 
-21. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER (Gemini Phase II)
+21. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
 22. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) wait next phase
 
@@ -47,7 +47,6 @@
 
 25. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
 
-26. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
 
 #
 #
@@ -151,6 +150,8 @@
 34. [MUON](https://alice.muon.net/join/) node ALICE V2 Operator (MAINET)
 
 35. [DEFUND](https://defund.explorers.guru/validator/defundvaloper1e8gelxtyhhwgnlm4u53qynh4w8ly6h3jptaav9)
+
+36. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node  [Explorer](https://testnet.mintscan.io/celestia-testnet)
 
 
 
