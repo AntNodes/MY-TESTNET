@@ -61,7 +61,7 @@
 
 3. [PONTEM](https://pontem.network/) Testnet Platform
 
-4. [FIREFLY](https://firefly.exchange/) Testnet Platform
+4. [BlueFin (FIREFLY)](https://bluefin.io/) Testnet Platform
 
 5. [MAVERICK PROTOCOL](https://www.mav.xyz/) Testnet Platform MAVA I MAVA II MAVA III
 
