@@ -31,25 +31,23 @@
 
 17. [TRANSFORMERS](https://explorer.tfsc.io/) node Operator
 
-18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait 3 Phase
+18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait 3
 
-19. [DYMENSION](https://docs.dymension.xyz/build/roller) RollApps
+19. [DYMENSION]([https://docs.dymension.xyz/build/roller](https://portal.dymension.xyz/rollapp/sinner_6990541-1) RollApps sinner_6990541-1
 
 20. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
 
-21. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
+21. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) wait next phase
 
-22. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) wait next phase
+22. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET
 
-23. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET 3 Phase 1
+23. [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
 
-24. [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
+24. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
 
-25. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
+25. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
-26. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
-
-27. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
+26. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
 
 
 #
