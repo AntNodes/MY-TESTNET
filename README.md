@@ -31,7 +31,7 @@
 
 17. [TRANSFORMERS](https://explorer.tfsc.io/) node Operator
 
-18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Wait 3
+18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
 
 19. [DYMENSION]([https://docs.dymension.xyz/build/roller](https://portal.dymension.xyz/rollapp/sinner_6990541-1) RollApps sinner_6990541-1
 
