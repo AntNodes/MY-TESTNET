@@ -33,7 +33,7 @@
 
 18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
 
-19. [DYMENSION]([https://docs.dymension.xyz/build/roller](https://portal.dymension.xyz/rollapp/sinner_6990541-1) RollApps sinner_6990541-1
+19. [DYMENSION](https://portal.dymension.xyz/rollapp/sinner_6990541-1) RollApps sinner_6990541-1
 
 20. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
 
