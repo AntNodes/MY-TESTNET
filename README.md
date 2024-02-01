@@ -3,7 +3,7 @@
 ##  🟢 Testing I took part in running nodes
 
 
-1. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) TEST 26
+1. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
 
 2. [CROWD CONTROL](https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-8
 
@@ -11,25 +11,25 @@
 
 4. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Iron Age Testnet
 
-5. [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
+5. [OBOL] Obol-Techne-Credential-Program
 
-6. [LIDO](https://lido.fi/) Lido x Obol Testnet
+6. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4
 
-7. [TAIKO](https://taiko.xyz/docs) alpha-5 testnet
+7. [TAIKO](https://taiko.xyz/docs) alpha-6 testnet
 
 9. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy) lava-testnet-2
 
-10. [CASCADIA](https://exp.systemd.run/cascadia/staking/cascadiavaloper1xr2cz4682x9eylqde0yl0alefmzdr4jw7jdv3j) cascadia_6102-1
+10. [AUTONITY](https://autonity.org/)
 
 11. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
 14. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
 
-15. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {1} end Wait Phase 2
+15. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
 
-16. [SHARDEUM](https://shardeum.org/ru/) node Operator
+16. [SHARDEUM](https://shardeum.org/ru/) Validator testnet
 
-17. [TRANSFORMERS](https://explorer.tfsc.io/) node Operator
+17. [TRANSFORMERS](https://explorer.tfsc.io/) Validator testnet
 
 18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
 
@@ -43,11 +43,8 @@
 
 23. [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
 
-24. [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
+24. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
-25. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
-
-26. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
 
 
 #
@@ -155,6 +152,11 @@
 
 36. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node  [Explorer](https://testnet.mintscan.io/celestia-testnet)
 
+37. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) TEST 26 
 
+38.  [CASCADIA](https://exp.systemd.run/cascadia/staking/cascadiavaloper1xr2cz4682x9eylqde0yl0alefmzdr4jw7jdv3j) cascadia_6102-1
 
+39.  [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
+
+40.  [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
 
