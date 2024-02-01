@@ -11,7 +11,7 @@
 
 4. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Iron Age Testnet
 
-5. [OBOL](Obol-Techne-Credential-Program)
+5. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) Obol-Techne-Credential-Program
 
 6. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4
 
