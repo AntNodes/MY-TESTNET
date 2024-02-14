@@ -13,7 +13,7 @@
 
 5. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) Obol-Techne-Credential-Program
 
-6. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 [Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/)
+6. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 Cluster 21[Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/)
 
 7. [TAIKO](https://taiko.xyz/docs) alpha-6 testnet
 
