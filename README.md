@@ -3,9 +3,9 @@
 ##  🟢 Testing I took part in running nodes
 
 
-1. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
+1. [CROWD CONTROL](https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-10
 
-2. [CROWD CONTROL](https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-8
+2. [VIPER](https://vipernet.xyz/)
 
 3. [ELIXIR](https://dashboard.elixir.finance/) Elixir v2.0 Validator
 
@@ -15,11 +15,11 @@
 
 6. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 Cluster 21[Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/)
 
-7. [TAIKO](https://taiko.xyz/docs) alpha-6 testnet
+7. [TRANSFORMERS](https://explorer.tfsc.io/) Validator testnet
 
 9. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy) lava-testnet-2
 
-10. [AUTONITY](https://autonity.org/)
+10. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
 
 11. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
@@ -29,7 +29,7 @@
 
 16. [SHARDEUM](https://shardeum.org/ru/) Validator testnet
 
-17. [TRANSFORMERS](https://explorer.tfsc.io/) Validator testnet
+17. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
 18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
 
@@ -43,7 +43,6 @@
 
 23. [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
 
-24. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
 
 
@@ -159,4 +158,6 @@
 39.  [NEUTRON](https://neutron.explorers.guru/validator/neutronvaloper1pp4q0wy9nw8t30u20nv2px0znnwgfse8gxxfsx) quark-1
 
 40.  [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
+
+41.  [TAIKO](https://taiko.xyz/docs) alpha-6 testnet
 
