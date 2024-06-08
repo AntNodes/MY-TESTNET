@@ -7,7 +7,7 @@
 
 2. [VIPER](https://vipernet.xyz/)
 
-3. [ELIXIR](https://dashboard.elixir.finance/) Elixir v2.0 Validator
+3. [ELIXIR](https://dashboard.elixir.finance/) Wait Elixir v3
 
 4. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Iron Age Testnet
 
