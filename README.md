@@ -17,33 +17,23 @@
 
 7. [TRANSFORMERS](https://explorer.tfsc.io/) Validator testnet
 
-9. [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy) lava-testnet-2
+9. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
 10. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
 
-11. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
+11. [SHARDEUM](https://shardeum.org/ru/) Validator testnet
 
-14. [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
+14. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET
 
-15. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
+15. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
 
-16. [SHARDEUM](https://shardeum.org/ru/) Validator testnet
+16. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
 
-17. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
+17. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) wait next phase
 
-18. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
+18. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
-19. [DYMENSION](https://portal.dymension.xyz/rollapp/sinner_6990541-1) RollApps sinner_6990541-1
-
-20. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
-
-21. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) wait next phase
-
-22. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET
-
-23. [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
-
-
+19. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
 
 
 #
@@ -160,4 +150,13 @@
 40.  [OBOL](https://prater.beaconcha.in/validator/9888d54b70cbd55180cbafbd3dbbd6b483ceca515cfb64e84eb872ffa2577e7357b99a460b24679af8f8af34c1d0ee78#attestations) Captain 👨‍✈️ cluster ELBRUS
 
 41.  [TAIKO](https://taiko.xyz/docs) alpha-6 testnet
+
+42.  [STARKNET](https://discord.com/channels/793094838509764618/956557041336455290/1030581742605713519)
+
+43.  [LAVA](https://lava.explorers.guru/validator/lava@valoper1672pe6c5egffx4glalyg8yzqeuv7kwj3tqz9dy) lava-testnet-2
+
+44.  [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
+
+45.  [DYMENSION](https://portal.dymension.xyz/rollapp/sinner_6990541-1) RollApps sinner_6990541-1
+
 
