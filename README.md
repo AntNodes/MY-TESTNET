@@ -3,7 +3,7 @@
 ##  🟢 Testing I took part in running nodes
 
 
-1. [CROWD CONTROL](https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-10
+1. [CROWD CONTROL](https://testnet.itrocket.net/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-11
 
 2. [VIPER](https://vipernet.xyz/)
 
