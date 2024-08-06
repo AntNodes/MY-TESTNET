@@ -3,9 +3,9 @@
 ##  🟢 Testing I took part in running nodes
 
 
-1. [CROWD CONTROL](https://testnet.itrocket.net/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-12
+1. [CROWD CONTROL](https://testnet.itrocket.net/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-12 
 
-2. [VIPER](https://vipernet.xyz/)
+2. [GAIA](https://www.gaianet.ai/node)
 
 3. [ELIXIR](https://dashboard.elixir.finance/) Wait Elixir v3
 
@@ -34,6 +34,8 @@
 18. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
 19. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
+
+20. [VIPER](https://vipernet.xyz/)
 
 
 #
