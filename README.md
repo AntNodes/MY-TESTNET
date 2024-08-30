@@ -7,7 +7,7 @@
 
 2. [GAIA](https://www.gaianet.ai/node)
 
-3. [ELIXIR](https://dashboard.elixir.finance/) Wait Elixir v3
+3. [ELIXIR](https://testnet-3.elixir.xyz/) Elixir v3
 
 4. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Iron Age Testnet
 
@@ -15,7 +15,7 @@
 
 6. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 Cluster 21[Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/)
 
-7. [TRANSFORMERS](https://explorer.tfsc.io/) Validator testnet
+7. [VIPER](https://vipernet.xyz/)
 
 9. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
@@ -33,9 +33,6 @@
 
 18. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
-19. [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
-
-20. [VIPER](https://vipernet.xyz/)
 
 
 #
@@ -63,7 +60,6 @@
 
 9. [INVARCH](https://www.tinker.network/) OCIF Staking: Public Testing
 
-10. [KRESKO](https://app.kresko.link/)
 
 #
 #
@@ -160,5 +156,10 @@
 44.  [NIBIRU](https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper17yq8at5lsyxdas6zqd2qfcjldp32dgjgcpsy5t) nibiru-itn-3
 
 45.  [DYMENSION](https://portal.dymension.xyz/rollapp/sinner_6990541-1) RollApps sinner_6990541-1
+
+46.   [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
+
+47. [KRESKO](https://app.kresko.link/)
+
 
 
