@@ -23,15 +23,13 @@
 
 11. [SHARDEUM](https://shardeum.org/ru/) Validator testnet
 
-14. [ALEO](https://github.com/AleoHQ/snarkOS/) TESTNET
+12. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
 
-15. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
+13. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
 
-16. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
+14. 
 
-17. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) wait next phase
-
-18. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
+15. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
 
 
@@ -159,7 +157,12 @@
 
 46.   [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
 
-47. [KRESKO](https://app.kresko.link/)
+47. [KRESKO](https://app.kresko.link/) END
+
+48. [ALEO](https://github.com/AleoHQ/snarkOS/) Claim Testnet 2
+
+49. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) END
+  
 
 
 
