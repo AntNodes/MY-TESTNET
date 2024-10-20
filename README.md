@@ -27,9 +27,7 @@
 
 13. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
 
-14. 
-
-15. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
+14. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
 
 
