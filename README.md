@@ -9,53 +9,29 @@
 
 3. [ELIXIR](https://testnet-3.elixir.xyz/) Elixir v3
 
-4. [QUAI](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Iron Age Testnet
+4. [QUAI](https://docs.qu.ai/guides/client/node) Golden Age
 
 5. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) Obol-Techne-Credential-Program
 
-6. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 Cluster 21[Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/)
+6. [RIVALZ](https://rivalz.ai/dashboard)
 
 7. [VIPER](https://vipernet.xyz/)
 
-9. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
+9. [HEMI](https://points.absinthe.network/hemi/start)
 
-10. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
+10. [NILLION](https://verifier.nillion.com)
 
-11. [SHARDEUM](https://shardeum.org/ru/) Validator testnet
+11. [SHARDEUM](https://shardeum.org/ru/) Validator task
 
-12. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
+12. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 Cluster 21[Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/)
 
 13. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
 
 14. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
 
+15. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
 
-
-#
-#
-
-
-## 🔵 Testing I took part in without running nodes
-
-
-1. [SCROLL.io](https://scroll.io/) Scroll Pre-Alpha Testnet Sepolia Testnet
-
-2. [My SWAP](https://www.myswap.xyz/) Testnet Platform
-
-3. [PONTEM](https://pontem.network/) Testnet Platform
-
-4. [BlueFin (FIREFLY)](https://bluefin.io/) Testnet Platform
-
-5. [MAVERICK PROTOCOL](https://www.mav.xyz/) Testnet Platform MAVA I MAVA II MAVA III
-
-6. [ZkSYNC](https://zksync.io/)
-
-7. [SOFT DAO](https://app.stagetokensoft.com)
-
-8. [FUEL](https://fuels-wallet.vercel.app/docs/install) FUEL Wallet beta-1 и beta-2
-
-9. [INVARCH](https://www.tinker.network/) OCIF Staking: Public Testing
-
+16. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
 #
 #
@@ -153,13 +129,15 @@
 
 45.  [DYMENSION](https://portal.dymension.xyz/rollapp/sinner_6990541-1) RollApps sinner_6990541-1
 
-46.   [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
+46.  [MASA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Phase 3
 
 47. [KRESKO](https://app.kresko.link/) END
 
 48. [ALEO](https://github.com/AleoHQ/snarkOS/) Claim Testnet 2
 
 49. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) END
+
+50. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer 
   
 
 
