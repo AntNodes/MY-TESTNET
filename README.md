@@ -7,7 +7,7 @@
 
 2. [GAIA](https://www.gaianet.ai/node)
 
-3. [ELIXIR](https://testnet-3.elixir.xyz/) Elixir v3
+3. [SONARIC](https://docs.sonaric.xyz/installation/#install-sonaric-locally) sonaric ant
 
 4. [QUAI](https://docs.qu.ai/guides/client/node) Golden Age
 
@@ -137,7 +137,9 @@
 
 49. [DWS](https://dws.explorers.guru/validator/dewebvaloper1avtnh7w7d8pa7uakr4vscp2skdg3wg9flrgdr3) END
 
-50. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer 
+50. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
+
+51. [ELIXIR](https://testnet-3.elixir.xyz/) Mainet
   
 
 
