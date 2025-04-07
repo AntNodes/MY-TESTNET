@@ -52,11 +52,11 @@
 
 10. [QUAI](https://docs.qu.ai/guides/client/node) mainnet
 
-11. [GOLD FINCH](https://goldfinch.finance/)
+11. [GOLD FINCH](https://goldfinch.finance/) mainnet
 
 12. [MANDE](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1kh3ksyfckthg8f6yg8kyt50tv062afu5d2k0ew) mainnet
 
-13. [AXELAR](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md)
+13. [AXELAR](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) mainnet
 
 14. [MUON](https://alice.muon.net/join/) node ALICE V2 Operator mainnet
 
@@ -68,11 +68,11 @@
 
 18. [MINIMA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
 
-19. [OASYS](https://docs.oasys.games/docs/category/validator)
+19. [OASYS](https://docs.oasys.games/docs/category/validator) mainnet
 
-20. [QUICKSILVER](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) MAINNET
+20. [QUICKSILVER](https://github.com/AntNodes/MY-TESTNET/edit/main/README.md) mainnet
 
-21. [EXORDE](https://explorer.exorde.network/leaderboard)
+21. [EXORDE](https://explorer.exorde.network/leaderboard) mainnet
 
 22. [BitCountry](https://bit.country/) mainnet
 
