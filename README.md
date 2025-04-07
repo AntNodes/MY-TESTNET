@@ -5,33 +5,26 @@
 
 1. [CROWD CONTROL](https://testnet.itrocket.net/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-12 
 
-2. [GAIA](https://www.gaianet.ai/node)
+2. [DRIA](https://dria.co/edge-ai/my-node)
 
 3. [SONARIC](https://docs.sonaric.xyz/installation/#install-sonaric-locally) sonaric ant
 
-4. [QUAI](https://docs.qu.ai/guides/client/node) Golden Age
+4. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) EtherFi SS
 
-5. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) Obol-Techne-Credential-Program
+5. [GENSYN](https://www.gensyn.ai/)
 
-6. [RIVALZ](https://rivalz.ai/dashboard)
+6. [HEMI](https://points.absinthe.network/hemi/start)
 
-7. [VIPER](https://vipernet.xyz/)
+7. [GAIA](https://www.gaianet.ai/node)
 
-9. [HEMI](https://points.absinthe.network/hemi/start)
+9. [PIPE](https://pipe.network/) devnet
 
-10. [NILLION](https://verifier.nillion.com)
+10. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
-11. [SHARDEUM](https://shardeum.org/ru/) Validator task
+11. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
 
-12. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 Cluster 21[Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/)
+12. [VIPER](https://vipernet.xyz/)
 
-13. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
-
-14. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
-
-15. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) artela_11822-1
-
-16. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
 #
 #
@@ -140,7 +133,20 @@
 50. [SUBQUERY](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) Frontier indexer
 
 51. [ELIXIR](https://testnet-3.elixir.xyz/) Mainet
-  
+
+52. [NILLION](https://verifier.nillion.com) Mainet
+
+53. [SHARDEUM](https://shardeum.org/ru/) Mainet
+
+54. [SUBSPACE](https://telemetry.subspace.network/#/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) node name SINNER
+
+55. [ARTELA](https://testnet.itrocket.net/artela/staking/artvaloper17grqgrhy77k2v48vq8kq8p4px4pkx86uesp0ad) Mainet
+
+56. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 Cluster 21[Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/)
+
+57. [RIVALZ](https://rivalz.ai/dashboard)
+
+58. [QUAI](https://docs.qu.ai/guides/client/node) Mainet
 
 
 
