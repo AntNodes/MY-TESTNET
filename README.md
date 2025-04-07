@@ -11,7 +11,7 @@
 
 4. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) EtherFi SS
 
-5. [GENSYN](https://www.gensyn.ai/)
+5. [GENSYN](https://www.gensyn.ai/) 
 
 6. [HEMI](https://points.absinthe.network/hemi/start)
 
