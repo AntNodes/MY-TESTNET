@@ -15,15 +15,17 @@
 
 6. [HEMI](https://points.absinthe.network/hemi/start)
 
-7. [GAIA](https://www.gaianet.ai/node)
+7. [DILL](https://dill.xyz/)
 
 9. [PIPE](https://pipe.network/) devnet
 
-10. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
+10. [GAIA](https://www.gaianet.ai/node)
 
 11. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
 
 12. [VIPER](https://vipernet.xyz/)
+
+13. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 
 
 #
