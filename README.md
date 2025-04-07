@@ -66,7 +66,7 @@
 
 17. [MASSA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) mainnet
 
-18. [MINIMA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+18. [MINIMA](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) mainnet
 
 19. [OASYS](https://docs.oasys.games/docs/category/validator) mainnet
 
