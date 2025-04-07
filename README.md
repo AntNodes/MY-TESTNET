@@ -7,13 +7,13 @@
 
 2. [DRIA](https://dria.co/edge-ai/my-node)
 
-3. [SONARIC](https://docs.sonaric.xyz/installation/#install-sonaric-locally) sonaric ant
+3. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) EtherFi SS
 
-4. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) EtherFi SS
+4. [HEMI](https://points.absinthe.network/hemi/start)
 
 5. [GENSYN](https://www.gensyn.ai/) 
 
-6. [HEMI](https://points.absinthe.network/hemi/start)
+6. [SONARIC](https://docs.sonaric.xyz/installation/#install-sonaric-locally) sonaric ant
 
 7. [DILL](https://dill.xyz/)
 
