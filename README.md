@@ -36,13 +36,13 @@
 
 1. [APTOS](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md) mainnet
 
-2. [TAIKO](https://taiko.xyz/docs) mainnet
+2. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 Cluster 21[Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/) 
 
 3. [CELESTIA](https://tiascan.com/light-node/12D3KooWBpZE5nvFAJSyE6ZkHh9Zz9avVauoLfc7vw8KgBYhBHpL) Light-node  [Explorer](https://testnet.mintscan.io/celestia-testnet)
 
 4. [DYMENSION](https://portal.dymension.xyz/rollapp/sinner_6990541-1) RollApps sinner_6990541-1
 
-5. [LIDO](https://lido.fi/) Lido x Obol Testnet wait Lido DVT Testnet #4 Cluster 21[Blog post LIDO Finance. Simple DVT: Obol Testnet Results](https://blog.lido.fi/simpledvt-obol-testnet-results/)
+5. [TAIKO](https://taiko.xyz/docs) mainnet
 
 6. [THIRD WEB](https://thirdweb.com/?utm_source=dc)
 
