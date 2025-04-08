@@ -9,7 +9,7 @@
 
 3. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) EtherFi SS
 
-4. [HEMI](https://points.absinthe.network/hemi/start)
+4. [PRIVASEA](https://www.privasea.ai/)
 
 5. [GENSYN](https://www.gensyn.ai/) 
 
@@ -25,7 +25,11 @@
 
 12. [VIPER](https://vipernet.xyz/)
 
-13. [BUNDLR NETWORK](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
+13. [HEMI](https://points.absinthe.network/hemi/start)
+
+14. [IRYS](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
+
+15. [NEXUS](https://app.nexus.xyz/)
 
 
 #
