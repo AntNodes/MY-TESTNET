@@ -2,7 +2,8 @@
 
 <h1 align="center">MY TESTNETS 🖥 </h1>
 
-##  🟢 Testing I took part in running nodes
+# Active testnet 
+##  🟢 Active
 
 
 1. [CROWD CONTROL](https://testnet.itrocket.net/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-12 
@@ -120,5 +121,5 @@
 
 40. [STRIDE](https://stride.zone/) mainnet
 
-
+#testnet end
 
