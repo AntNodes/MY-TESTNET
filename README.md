@@ -6,7 +6,7 @@
 ##  🟢 Active
 
 
-1. [CROWD CONTROL](https://testnet.itrocket.net/cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-12 
+1. [CROWD CONTROL](https://explorer.oshvank.xyz/Cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-14 
 
 2. [DRIA](https://dria.co/edge-ai/my-node)
 
