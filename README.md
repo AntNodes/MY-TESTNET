@@ -121,5 +121,4 @@
 
 40. [STRIDE](https://stride.zone/) mainnet
 
-#testnet end
 
