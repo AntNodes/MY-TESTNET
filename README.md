@@ -8,31 +8,7 @@
 
 1. [CROWD CONTROL](https://explorer.oshvank.xyz/Cardchain/staking/ccvaloper1k2tyxj9pjxskpnqf87prkr9whzagnx5aprf2lg) CardTestnet-14 
 
-2. [DRIA](https://dria.co/edge-ai/my-node)
-
-3. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) EtherFi SS
-
-4. [PRIVASEA](https://www.privasea.ai/)
-
-5. [GENSYN](https://www.gensyn.ai/) 
-
-6. [SONARIC](https://docs.sonaric.xyz/installation/#install-sonaric-locally) sonaric ant
-
-7. [DILL](https://dill.xyz/)
-
-9. [PIPE](https://pipe.network/) devnet
-
-10. [GAIA](https://www.gaianet.ai/node)
-
-11. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
-
-12. [VIPER](https://vipernet.xyz/)
-
-13. [HEMI](https://points.absinthe.network/hemi/start)
-
-14. [IRYS](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
-
-15. [NEXUS](https://app.nexus.xyz/)
+2. [NEXUS](https://app.nexus.xyz/)
 
 
 #
@@ -121,4 +97,26 @@
 
 40. [STRIDE](https://stride.zone/) mainnet
 
+41. [DRIA](https://dria.co/edge-ai/my-node)
 
+42. [OBOL](https://obol-dvt.notion.site/obol-dvt/Obol-Techne-Credential-Program-71ce5d5013b945949f71b12b28884628) EtherFi SS
+
+43. [PRIVASEA](https://www.privasea.ai/)
+
+44. [GENSYN](https://www.gensyn.ai/) 
+
+45. [SONARIC](https://docs.sonaric.xyz/installation/#install-sonaric-locally) sonaric ant
+
+46. [DILL](https://dill.xyz/)
+
+47. [PIPE](https://pipe.network/) devnet
+
+48. [GAIA](https://www.gaianet.ai/node)
+
+49. [FLEEK](https://faucet.testnet.fleek.network/) Testnet Phase {3}
+
+50. [VIPER](https://vipernet.xyz/)
+
+51. [HEMI](https://points.absinthe.network/hemi/start)
+
+52. [IRYS](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
